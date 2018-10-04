@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\EletricSkateBoardController\\AndroidApp\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "outputFile": "D:\\EletricSkateboardAPP\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\EletricSkateBoardController\\AndroidApp\\BluetoothController\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "source": "D:\\EletricSkateboardAPP\\BluetoothController\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

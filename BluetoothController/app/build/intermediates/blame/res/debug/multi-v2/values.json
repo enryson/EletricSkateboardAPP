@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\EletricSkateBoardController\\AndroidApp\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\EletricSkateboardAPP\\BluetoothController\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\enrys\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.1.0.aar\\bfb1d2769e14359a36f17b360cdc70fa\\res\\values\\values.xml",
@@ -23,7 +23,26 @@
                     }
                 },
                 {
-                    "source": "D:\\EletricSkateBoardController\\AndroidApp\\BluetoothController\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "D:\\EletricSkateboardAPP\\BluetoothController\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1,10,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "17,449,258",
+                        "endLines": "5,12,9",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "252,541,443"
+                    },
+                    "to": {
+                        "startLines": "450,455,1468",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "44389,44625,109184",
+                        "endLines": "454,457,1471",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "44620,44715,109366"
+                    }
+                },
+                {
+                    "source": "D:\\EletricSkateboardAPP\\BluetoothController\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -40,7 +59,7 @@
                     }
                 },
                 {
-                    "source": "D:\\EletricSkateBoardController\\AndroidApp\\BluetoothController\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\EletricSkateboardAPP\\BluetoothController\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -76,7 +95,7 @@
                     }
                 },
                 {
-                    "source": "D:\\EletricSkateBoardController\\AndroidApp\\BluetoothController\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "D:\\EletricSkateboardAPP\\BluetoothController\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "4,4,4",
@@ -90,25 +109,6 @@
                         "startOffsets": "6189,6235,6282",
                         "endColumns": "45,46,50",
                         "endOffsets": "6230,6277,6328"
-                    }
-                },
-                {
-                    "source": "D:\\EletricSkateBoardController\\AndroidApp\\BluetoothController\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "1,10,6",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "17,449,258",
-                        "endLines": "5,12,9",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "252,541,443"
-                    },
-                    "to": {
-                        "startLines": "450,455,1468",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "44389,44625,109184",
-                        "endLines": "454,457,1471",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "44620,44715,109366"
                     }
                 }
             ]
